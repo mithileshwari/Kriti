@@ -1,19 +1,4 @@
-# Raman-TheVisionBot
-Humaniod Robot with abilities of foveated vision and object recognition 
-
-   1.Object Recognition
+# Precision-Gambling, Inter hostel Robotics competition
    
-   2.Fixating And Tracking Objects
-   
-   3.Path Planning
-   
-   4.Depth Perception
-   
-   5.Gesture Recognition
-   
-   6.Facial Recognition and Tracking
-   
-   
-   
-   
-   
+   Built a bot which can detect a colored target on a Black Screen, using Image Processing and 
+   point a laser beam accuretely on a target.
